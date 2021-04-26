@@ -25,8 +25,8 @@ function greet(timeString) {
 }
 
 
-function displayMessage(TEST){
-  document.getElementById("greeting").innerText=TEST;
+function displayMessage(string){
+  document.getElementById("greeting").innerText=string;
 }
 
 
